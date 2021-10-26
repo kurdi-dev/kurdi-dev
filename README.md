@@ -9,6 +9,8 @@
 [<img align="left" alt="kurdi-dev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kurdi-dev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+
 ### 🛠 Tech Stack
 
 - 📱 &nbsp;Mobile:&nbsp;
