@@ -48,7 +48,7 @@
   ![Framer](https://img.shields.io/badge/-Framer-0A1A2F?style=flat&logo=framer)
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
 
-[website]: google.com
-[twitter]: google.com
-[linkedin]: google.com
-[instagram]: google.com
+[website]: https://kurdi.dev
+[twitter]: https://twitter.com/kurdi_dev
+[linkedin]: https://linkedin.com/in/walid-r-rashed
+[instagram]: https://instagram.com/kurdi_dev
