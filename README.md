@@ -3,7 +3,7 @@
 <div align="left">
   <a href="https://twitter.com/kurdi_dev">
     <img
-      src="https://img.shields.io/twitter/url?style=social"
+      src="https://img.shields.io/twitter/follow/kurdi_dev?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
       alt="Twitter"
     />
   </a>
