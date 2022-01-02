@@ -15,7 +15,7 @@
   </a>
   <a href="https://app.daily.dev/Wali">
     <img 
-    src="https://api.daily.dev/devcards/888b6b6733f44efdab3eb70dd47428c6.png?r=78p" width="256" align="right" alt="Walid R. Rashed's Dev Card"
+    src="https://github.com/kurdi-dev/kurdi-dev/blob/master/devcard.svg" width="256" align="right" alt="Walid R. Rashed's Dev Card"
     />
   </a>
 </div>
