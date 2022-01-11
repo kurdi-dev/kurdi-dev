@@ -22,7 +22,7 @@
 
 <br />
 
-![Metrics](https://github.com/kurdi-dev/kurdi-dev/blob/main/github-metrics.svg)
+![Metrics](https://github.com/kurdi-dev/kurdi-dev/blob/master/github-metrics.svg)
 
 
 
