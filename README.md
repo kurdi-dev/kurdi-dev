@@ -26,7 +26,7 @@
 
 
 
-[website]: https://kurdi.dev
+[website]: https://kurdi.dev?utm_source=github&utm_medium=profile
 [twitter]: https://twitter.com/kurdi_dev
 [linkedin]: https://linkedin.com/in/walid-r-rashed
 [instagram]: https://instagram.com/kurdi_dev
