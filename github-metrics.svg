@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            805 Commits
+                            807 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -128,7 +128,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 64 users
+                            Following 65 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="193.635139347686" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="193.635139347686" y="0" width="80.90438305427654" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="274.53952240196253" y="0" width="62.494815815121434" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="337.034338217084" y="0" width="48.4182783947324" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="385.4526166118163" y="0" width="26.407960542284837" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="411.8605771541012" y="0" width="18.500818750053906" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="430.3613959041551" y="0" width="17.786109711275095" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="448.1475056154302" y="0" width="11.852494384569797" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="193.57908843882646" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="193.57908843882646" y="0" width="80.88096393615474" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="274.46005237498116" y="0" width="62.47672565216214" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="336.9367780271433" y="0" width="48.404262919449444" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="385.3410409465927" y="0" width="26.53347096341881" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="411.87451191001156" y="0" width="18.4954633806252" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="430.3699752906367" y="0" width="17.780961226254497" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="448.1509365168912" y="0" width="11.849063483108699" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -526,7 +526,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="49.07035175879397 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="49.84924623115578 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -544,10 +544,10 @@
                                     <span class="prefix"></span>
                                     Follower
                                     <div class="value-wrapper">
-                                        <div class="value">64</div>
+                                        <div class="value">65</div>
                                     </div>
                                 </div>
-                                <div class="text">Following 64 users</div>
+                                <div class="text">Following 65 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -988,7 +988,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Sept 2022, 09:46:43 (timezone Asia/Baghdad) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 14 Sept 2022, 15:27:20 (timezone Asia/Baghdad) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
