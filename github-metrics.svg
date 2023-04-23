@@ -33,7 +33,7 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            637 Commits
+                            638 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -198,7 +198,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    27 Stargazers
+                                    28 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="193.9322418903571" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="193.9322418903571" y="0" width="81.95628687775285" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="275.8885287681099" y="0" width="61.089226848389146" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="336.97775561649905" y="0" width="47.32928889996953" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="384.3070445164686" y="0" width="25.983545250560958" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="410.29058976702953" y="0" width="18.08471148785285" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="428.3753012548824" y="0" width="17.579988365328678" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="445.9552896202111" y="0" width="14.044710379788913" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="193.79537333988233" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="193.79537333988233" y="0" width="82.17893155355233" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="275.97430489343463" y="0" width="61.060765845155196" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="337.03507073858987" y="0" width="47.30723854651219" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="384.3423092851021" y="0" width="25.971439715697322" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="410.3137490007994" y="0" width="18.07628595918446" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="428.39003495998384" y="0" width="17.571797983300105" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="445.961832943284" y="0" width="14.038167056716071" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -717,7 +717,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 804k out of 396m repositories</span>
+                                    <span class="gh">ranked 805k out of 396m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">28</div>
                                     </div>
@@ -992,7 +992,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Apr 2023, 15:17:15 (timezone Asia/Baghdad) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 Apr 2023, 21:11:18 (timezone Asia/Baghdad) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
