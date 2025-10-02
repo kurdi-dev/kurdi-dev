@@ -66,60 +66,14 @@
                             <mask id="mask-12" fill="white">
                                 <use xlink:href="#path-11"></use>
                             </mask>
-                            <g transform="translate(0, 0.000000)" mask="url(#mask-12)">
-                <image x="0" y="0" width="64" height="64" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAABzlBMVEX////+//39/v3///7+//7+/v37/v0Av/4Av/3+/v79/v7+/v8Avv38/v38/vzI7/n6/v7c9vsAv/v9/vz8/v4Avv4BvvsAv/z9//4Cv/sZw/do2PZv2Pfb9voCvvtm2PYBvvr8/f36/v0Iv/kLv/n8/fu57fYOwPnn+vwnx/dk1/cOwfj+///1/fxj1fY9zfYCvvms6fj2/fzJ7fMaw/dq2PZn2Phi1/f4/fyE3vaZ5PmB3/gBvvz9/v8Bvv0OwPgAvf0AwP76/vv5/vv6/vz3/vz8/fz3/fwCv/qW4veV4veZ5fiE3vd+3fcPwvcPwfjg9/rf9/o2zPcCvvr3//03y/h+3vcRwfhb1ff2/v71/v6A3/gRwfll1/P3/v32/v33/v7u+/z+/f3h9fYAvvvh9ff5/vz7/fwCvfv6/fxCzPNBzPMAvvxm1/Ty/f1t2PVt1/UDv/sBv/uV4vgcw/cbw/eT4/nD8PdHz/bD8PhH0Pf2/vzy/fwDv/pc1fcYxPnq+vy17Pl/3/fC7/YYxPg8zvUXwvgUwfjC7/f8/vsPwfn2/fvQ8/rg9/tT0vPt+/xU0fMVwvd/3/gAwP0Twvg+zva27PfN8/np+vvf9/ve5E5JAAABmklEQVQYGe3B1VrdQBQG0D+Tmew9seOCu7tTpZS6u7u7uxsVWqjb25akt+HLueTirIWyssXEdGxlKGVrjdIUPzxOJRKptS0CpTAyf0eG88z1lVU1wkC8zK8fTKFC22YLcUz9u+07M1OodovnAXDsU40S0fT4z69j30afU8jdfdgC4PitZyWi6fdf/mhTnTywnFwi4gtX2y3x5N7liwaiZYc+KhPAmjqXAle4q+/Bnf4BX2IBDkwEktUVTAHOpW/1Wt2INbVxG1OAb17vMRClqPzk8UN7PLsBAblj394jTc0dnQ89RPPvd3Y0N+3ftXWnRKBBZI8dPJH0dBFRjJ4bT5kCvH3TasTqtnrT6RzTPHY3VCcRMh0sQPoD/Xcf9XW5TPMmV9Wd0xqmGBzKIppx/tLta8JqP5pnIsrRmWeflSlfzL3WiCZPt/oOAGtZ7UoKvRl9NfZ2elwjmmzM2A4AYS2poJBb4MLMJ20ijrV0Ik3/vXuZQTzDq6mqrGfOD4/MColS6HXrU4lEarBFoDR6ha0MpWxboqxsEfkHlhk5/tS/xZgAAAAASUVORK5CYII="></image>
-              </g>
+                            
                         </g>
                         <text id="Favorite-publication" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="24" font-weight="normal" line-spacing="30" fill="#FFFFFF">
                             <tspan x="0" y="22">Favorite publications</tspan>
                         </text>
                     </g>
                     <g id="tags" transform="translate(0.000000, 156.000000)">
-                        <g transform="translate(0.000000, 0)">
-              <g id="bar" transform="translate(0.000000, 42.000000)">
-                <rect id="Bg" fill="#525866" x="0" y="0" width="320" height="4" rx="2"></rect>
-                <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="320" height="4" rx="2"></rect>
-              </g>
-              <text id="Javascript" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="24" font-weight="normal" line-spacing="30" fill="#FFFFFF">
-                <tspan x="0" y="22">Cms</tspan>
-              </text>
-              <text id="79" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="40" font-weight="bold" line-spacing="48" fill="#FFFFFF">
-                <tspan x="336" y="43">1</tspan>
-              </text>
-            </g>,<g transform="translate(0.000000, 66)">
-              <g id="bar" transform="translate(0.000000, 42.000000)">
-                <rect id="Bg" fill="#525866" x="0" y="0" width="320" height="4" rx="2"></rect>
-                <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="320" height="4" rx="2"></rect>
-              </g>
-              <text id="Javascript" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="24" font-weight="normal" line-spacing="30" fill="#FFFFFF">
-                <tspan x="0" y="22">Framer Motion</tspan>
-              </text>
-              <text id="79" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="40" font-weight="bold" line-spacing="48" fill="#FFFFFF">
-                <tspan x="336" y="43">1</tspan>
-              </text>
-            </g>,<g transform="translate(0.000000, 132)">
-              <g id="bar" transform="translate(0.000000, 42.000000)">
-                <rect id="Bg" fill="#525866" x="0" y="0" width="320" height="4" rx="2"></rect>
-                <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="320" height="4" rx="2"></rect>
-              </g>
-              <text id="Javascript" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="24" font-weight="normal" line-spacing="30" fill="#FFFFFF">
-                <tspan x="0" y="22">Nextjs</tspan>
-              </text>
-              <text id="79" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="40" font-weight="bold" line-spacing="48" fill="#FFFFFF">
-                <tspan x="336" y="43">1</tspan>
-              </text>
-            </g>,<g transform="translate(0.000000, 198)">
-              <g id="bar" transform="translate(0.000000, 42.000000)">
-                <rect id="Bg" fill="#525866" x="0" y="0" width="320" height="4" rx="2"></rect>
-                <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="320" height="4" rx="2"></rect>
-              </g>
-              <text id="Javascript" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="24" font-weight="normal" line-spacing="30" fill="#FFFFFF">
-                <tspan x="0" y="22">Tailwind Css</tspan>
-              </text>
-              <text id="79" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="40" font-weight="bold" line-spacing="48" fill="#FFFFFF">
-                <tspan x="336" y="43">1</tspan>
-              </text>
-            </g>
+                        
                     </g>
                     <g id="total" transform="translate(-0.000000, 0.000000)">
                         <text id="219" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="80" font-weight="bold" line-spacing="86" fill="#FFFFFF">
